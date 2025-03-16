@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**PES2UG22CS091/PES2UG22CS091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Apeksha/Apeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
